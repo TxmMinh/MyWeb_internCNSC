@@ -26,9 +26,16 @@ File customers.php shows customers list
 
 + PHP 
 + HTML
++ JavaScript
+
+## Database
+
++ MySQL
 
 ## Framework
 
 + Start Bootstrap Admin 2
 
-## Tools: phpMyAdmin, Xampp, Visual Studio Code
+## Tools
+
++ phpMyAdmin, Xampp, Visual Studio Code

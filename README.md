@@ -16,11 +16,13 @@ Use this URL to access website (localhost/your_file/login.php)
 
 ## How it works
 
-File login.php to create theme
+File login.php creates theme
 
-File connect_database.php to connect with database
+File connect_database.php connects with database
 
 File customers.php shows customers list
+
+Important: You should create a database which has a table name is customers
 
 ## programming language 
 

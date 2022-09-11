@@ -27,7 +27,7 @@ Important: You should create a database which has a table name is customers
 ## programming language 
 
 + PHP 
-+ HTML
++ HTML/CSS
 + JavaScript
 
 ## Database
